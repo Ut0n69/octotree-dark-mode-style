@@ -1,0 +1,11 @@
+.octotree-view-body, a[id*="octotree"], .octotree-footer, .octotree-view, .jstree-icon, .jstree-ocl  {
+  background: #000 !important;
+}
+
+.jstree-wholerow-clicked {
+  background: #404040 !important;
+}
+
+.ui-resizable-handle {
+  background: #272b33;
+}
